@@ -1,0 +1,55 @@
+body{
+    background-color: aqua;
+}
+h1{
+   
+    font-weight:bold ;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: bisque;
+    border: 10px dotted;
+    border-radius: 10px;
+    border-bottom: green 10px solid;
+    border-left:blue 10PX SOLID ;
+    border-top: WHITE 10PX SOLID;
+    border-right: WHITE 10PX SOLID;
+    text-shadow: 3px 5px 4px hwb(0 4% 72%);
+
+}
+
+#box1{
+    background-color: lightgrey;
+    height: 300px;
+    width: 300px;
+    border: 15px;
+    margin: 20px;
+    padding: 25px;
+    position: relative;
+  }  
+#pokeball{
+    float: left;
+    border: 10px;
+}
+
+div{
+    border: 2px solid;
+    height: 75px;
+    overflow: hidden;
+}
+#box3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
